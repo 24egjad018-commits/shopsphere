@@ -159,3 +159,21 @@ ShopSphere/
   pages are in English.
 - Before using this on a real server, remove the demo pages and servers, and keep
   the database password in a configuration file outside the source code.
+<img width="869" height="466" alt="Screenshot 2026-10-18 180634" src="https://github.com/user-attachments/assets/fa2a5aeb-925a-4e8d-b8bd-3f9c7e5f95e7" />
+<img width="933" height="441" alt="Screenshot 2026-10-18 180251" src="https://github.com/user-attachments/assets/938ec9d6-26bf-4ee3-9f23-b6eccbfa5d4e" />
+<img width="555" height="284" alt="Screenshot 2026-10-18 181536" src="https://github.com/user-attachments/assets/85c2fe8c-e66f-4001-a3d3-04a95b76e894" />
+<img width="430" height="392" alt="Screenshot 2026-10-18 182643" src="https://github.com/user-attachments/assets/c95e59a6-4499-4def-b021-a33d26a3b911" />
+<img width="934" height="311" alt="Screenshot 2026-10-18 182913" src="https://github.com/user-attachments/assets/f2b39f38-6a5b-419f-987f-5a70007395c5" />
+<img width="910" height="422" alt="Screenshot 2026-10-18 183105" src="https://github.com/user-attachments/assets/2f92be7b-90e0-40be-8551-e5dec74fb996" />
+<img width="917" height="252" alt="Screenshot 2026-10-18 183236" src="https://github.com/user-attachments/assets/230e8ec7-3eb8-4a8b-a8bc-20dca32a8573" />
+<img width="910" height="272" alt="Screenshot 2026-10-18 183152" src="https://github.com/user-attachments/assets/f067ad74-6910-46c3-b07a-c543587cb9ef" />
+<img width="943" height="290" alt="Screenshot 2026-10-18 182933" src="https://github.com/user-attachments/assets/7155f717-0562-49bd-b7c9-cdc772dc13bc" />
+<img width="928" height="431" alt="Screenshot 2026-10-18 183304" src="https://github.com/user-attachments/assets/387dbe74-f4f1-4156-9cd6-994de85211a7" />
+<img width="794" height="277" alt="Screenshot 2026-10-18 184105" src="https://github.com/user-attachments/assets/6a613b0b-653a-4ff3-85d8-3168bfd2262c" />
+<img width="912" height="253" alt="Screenshot 2026-10-18 184955" src="https://github.com/user-attachments/assets/4c30b0e0-314d-4946-9dfa-29dbe41c450a" />
+<img width="656" height="324" alt="Screenshot 2026-10-18 185847" src="https://github.com/user-attachments/assets/d802421c-273f-4ff8-bae7-7af2917d2320" />
+<img width="905" height="362" alt="Screenshot 2026-10-18 194827" src="https://github.com/user-attachments/assets/6b9a6897-afed-4c09-ac9a-49a017fe7191" />
+<img width="933" height="250" alt="Screenshot 2026-10-18 195244" src="https://github.com/user-attachments/assets/c9964fd8-19cf-4068-92b6-c46bc7cfd57e" />
+
+
+
